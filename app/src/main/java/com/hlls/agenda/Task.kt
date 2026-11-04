@@ -17,7 +17,7 @@ val DAYS = listOf("Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom")
 val LEADS = listOf(0, 15, 30, 60, 90)
 
 fun leadLabel(min: Int): String = when (min) {
-    0 -> "Nenhum"
+    0 -> "Não"
     60 -> "1h"
     90 -> "1h30"
     else -> "$min min"
