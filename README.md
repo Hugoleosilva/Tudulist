@@ -27,10 +27,11 @@ um toque. O relógio e a data ficam sempre no topo.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/tela-hoje.jpg" width="200" alt="Tela Hoje"><br><sub><b>Hoje</b></sub></td>
-    <td align="center"><img src="docs/tela-amanha.jpg" width="200" alt="Tela Amanhã (lembretes)"><br><sub><b>Amanhã</b> (lembretes)</sub></td>
-    <td align="center"><img src="docs/tela-semana.jpg" width="200" alt="Tela Semana"><br><sub><b>Semana</b></sub></td>
-    <td align="center"><img src="docs/tela-mes.jpg" width="200" alt="Tela Mês"><br><sub><b>Mês</b></sub></td>
+    <td align="center"><img src="docs/tela-hoje.jpg" width="160" alt="Tela Hoje"><br><sub><b>Hoje</b></sub></td>
+    <td align="center"><img src="docs/tela-amanha.jpg" width="160" alt="Tela Amanhã (lembretes)"><br><sub><b>Amanhã</b> (lembretes)</sub></td>
+    <td align="center"><img src="docs/tela-semana.jpg" width="160" alt="Tela Semana"><br><sub><b>Semana</b></sub></td>
+    <td align="center"><img src="docs/tela-mes.jpg" width="160" alt="Tela Mês"><br><sub><b>Mês</b></sub></td>
+    <td align="center"><img src="docs/tela-cadastro.jpg" width="160" alt="Tela de cadastro"><br><sub><b>Cadastro</b></sub></td>
   </tr>
 </table>
 
