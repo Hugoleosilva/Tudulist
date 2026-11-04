@@ -66,8 +66,8 @@ desconhecido), porque você não teria como saber o que tem dentro.
 ### 2. (Opcional) Confira a integridade
 Compare o SHA-256 do arquivo baixado com o que está nas notas da Release:
 
-- **Windows (PowerShell):** `Get-FileHash .\app-debug.apk -Algorithm SHA256`
-- **Linux/macOS:** `sha256sum app-debug.apk`
+- **Windows (PowerShell):** `Get-FileHash .\Tudulist-1.0.apk -Algorithm SHA256`
+- **Linux/macOS:** `sha256sum Tudulist-1.0.apk`
 
 Se for diferente, **não instale**.
 
