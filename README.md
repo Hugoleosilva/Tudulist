@@ -17,6 +17,9 @@ O Tudulist facilita **organizar a rotina e não esquecer dela**. Você cadastra 
 (ex.: *Muay Thai, terça e quinta, 6h–7h*), e o app mostra o que vem pela frente e **avisa antes de começar**.
 Sem conta, sem internet, sem anúncios, sem tela poluída.
 
+> **Quer entender tudo em detalhe?** Veja o guia completo em [docs/COMO-FUNCIONA.md](docs/COMO-FUNCIONA.md):
+> cadastro, repetições, alertas, choque de horário, seus dados e perguntas frequentes.
+
 ## Abre direto no que importa
 
 Você toca no ícone e **já cai na lista do dia**, com o botão **+** à mão para cadastrar. Não tem tela de
@@ -150,5 +153,6 @@ app/src/main/
 ## Limitações
 
 - **Só Android** (8.0 ou mais novo). Não há versão para iPhone.
-- Os dados ficam **apenas no aparelho**: não há backup nem sincronização, e desinstalar o app apaga tudo.
+- Os dados ficam **apenas no aparelho**: o app não tem backup nem sincronização próprios, e desinstalar o
+  app apaga tudo. O backup automático do Android pode incluir os dados, mas não é garantido.
 - A compilação distribuída é de teste (*debug*), não uma versão publicada em loja.
